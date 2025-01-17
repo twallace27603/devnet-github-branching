@@ -1,0 +1,11 @@
+routers:
+  - hostname: router1
+    ip: 192.168.1.1
+    username: admin
+    password: cisco123
+    enable_password: enable123
+  - hostname: router2
+    ip: 192.168.1.2
+    username: admin
+    password: cisco123
+    enable_password: enable123
